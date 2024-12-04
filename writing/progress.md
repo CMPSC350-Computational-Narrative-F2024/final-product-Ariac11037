@@ -22,15 +22,22 @@ an LLM generate a set storyline, with different choices, in its entirety.
 
 Identify at least 3 questions to pose to an in-class peer.
 
-What is your overall opinion on the project so far?
-What improvements would you suggest making?
-Are there any specific concerns you have about this project?
+What techinical strategy did you use for your project and storytelling?
+How did you implement the LLM API into your storytelling?
+What kinds of challenges are you experiencing? Particularly any big concerns?
 
 ### Unstructured peer feedback
 
-TODO: Dedicate this space to a summative comment from a peer. This may require you to share
+Dedicate this space to a summative comment from a peer. This may require you to share
 this repository (briefly) with this person for them to replace this paragraph with the comment.
+
+From Charlie: I think this project is really interesting and provides a great way to educate people on the struggles of
+mental health and how surrounding cultural circles can affect that. I think that it is smart to "add up" points in order to
+get to one of the three endings and was not something I had thought of before. I also think that the way Aria is using Chat-GPT
+to help create the background and storyline makes sense and is a good use of an LLM for user-based story purposes.
 
 ## Persisting challenges
 
-TODO: Highlight challenges which continue to hamper progress.
+Highlight challenges which continue to hamper progress.
+
+Currently, I still have no idea how my final product will look for its user interface.
