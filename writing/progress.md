@@ -41,3 +41,4 @@ to help create the background and storyline makes sense and is a good use of an 
 Highlight challenges which continue to hamper progress.
 
 Currently, I still have no idea how my final product will look for its user interface.
+I am also not super sure on how to implement the point system I have in place for the choices that lead to the endings.
