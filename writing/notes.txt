@@ -1,0 +1,60 @@
+10 scenes in which the player makes decisions
+3 endings
+points scale, 4+ points = definite ending
+
+Title: Lost in Translation  
+Description: Lost in Translation is an interactive narrative about navigating the complexities of mental health within the intersection of cultural identity and generational divides. Follow the story of a young Asian American adult as they grapple with anxiety, depression, and the pressures of being "enough" for both family and society. Make choices that shape their relationships, mental health journey, and path to self-acceptance. Will they find a way to bridge the cultural gap, or will they lose themselves in the process?  
+
+---
+
+Main Character Profile
+
+Mental Illness: The protagonist suffers from generalized anxiety disorder (GAD), accompanied by periods of mild to moderate depression. Their anxiety manifests as constant overthinking, perfectionism, and difficulty making decisions, while their depressive episodes bring feelings of inadequacy, lack of motivation, and emotional numbness.
+
+Life Situation:
+- Age and Occupation: The protagonist is a 24-year-old working as a junior graphic designer at a small marketing firm. They often feel stuck in their job, unable to move up the career ladder due to self-doubt and fear of taking risks.  
+- Relationship Status: They are single, having ended their last relationship due to their inability to open up about their struggles. This has left them feeling lonely and ashamed of their emotional “baggage.”  
+- Social Circle: They have a few close friends from college but feel disconnected lately due to their tendency to withdraw when overwhelmed. Most social interactions feel performative rather than authentic.  
+- Personal Life/Relationship with Self: The protagonist is caught between wanting to succeed and feeling like a failure. They criticize themselves constantly for not meeting their own or others' expectations. While they occasionally seek solace in hobbies like sketching or cooking, they often struggle to find joy in these activities.  
+
+Parents’ Personalities and Attitudes Towards Mental Health:
+
+1. Mother:
+   The protagonist’s mother is a nurturing yet deeply pragmatic woman in her 50s. Having grown up in poverty, she values resilience and practicality over emotional expression. Her attitude toward mental health is dismissive but not unkind. She says things like:  
+   - “You just need to focus on your work and stay busy. Don’t think too much.”
+   - “Our family has been through worse. You’re strong; you can handle this.”
+   While she cares deeply, she struggles to understand mental health beyond a physical framework and often attributes the protagonist's struggles to laziness or a lack of discipline.  
+
+2. Father:  
+   The protagonist’s father is more reserved and emotionally distant, a man of few words who prefers actions over discussions. In his late 50s, he holds traditional views about emotional strength and associates mental health struggles with shame. His common phrases include:  
+   - “Why are you sad? You have everything you need.” 
+   - “When I was your age, I didn’t have time to feel sad.”
+   While he doesn’t actively ridicule the protagonist, his silence and stoicism create a barrier, making them feel unsupported.  
+
+Together, the parents share a love for their child but are united in their lack of understanding of mental health, albeit expressed through different styles—one with dismissive pragmatism, the other with quiet denial.
+
+Social Circle’s Attitudes:
+
+- Close Friends:
+   The protagonist has two close friends:  
+   - Emily: An empathetic friend who notices something is wrong but doesn’t push for answers. She respects boundaries and offers support, saying things like, *“I’m here if you ever need to talk, no pressure.”* However, her lack of directness sometimes leaves the protagonist feeling isolated.  
+   - Jason: A college friend who values humor as a coping mechanism. He avoids serious conversations, brushing off concerns with jokes like, *“We’re all a little messed up, right?”* While well-meaning, he doesn’t grasp the depth of the protagonist’s struggles.  
+
+- Acquaintances and Coworkers:
+   The protagonist maintains a surface-level relationship with coworkers and casual acquaintances, hiding their struggles behind a mask of competence. They fear being judged or pitied, so they avoid revealing their mental health issues.  
+
+- Social Circle’s Knowledge:
+   Only Emily has an inkling about the protagonist’s mental health struggles, though the protagonist has never fully opened up to her. The rest of their social circle remains unaware, partly due to the protagonist’s fear of being seen as weak or a burden.
+
+Saving this scene:
+Scene Concept: Family Dinner, Cultural Expectations, and Breakthrough
+
+It’s a Sunday evening, and the family dinner table is set—traditional dishes passed around, the air filled with the sounds of relatives catching up and sharing stories. But beneath the familiar chatter, you feel the weight of unspoken expectations. Your parents, particularly your mom, look at you with concern but also with a hint of frustration. They want to know what you’re doing with your life, why you’re not meeting certain milestones, and why you’ve been quieter than usual.
+
+As the questions pile on, you can feel yourself becoming more and more overwhelmed. The room feels smaller, the food less appetizing, and the pressure building in your chest. You want to say something, anything, but you don’t know how to explain what you’re feeling. Everything feels out of place—your need for validation, the cultural values they hold so dear, and your own confusion about who you’re supposed to be.
+
+Choices:
+
+Speak up: You decide to open up about how you’ve been feeling, risking confrontation to express the difficulty of navigating these expectations.
+Deflect the questions: You choose to avoid the confrontation, changing the subject to something safer, but the tension still lingers.
+Withdraw completely: You retreat into silence, eating your food without engaging in the conversation. You just want to be left alone.
